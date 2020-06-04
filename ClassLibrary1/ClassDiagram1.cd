@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="TourLibrary.Account">
+    <Position X="7.75" Y="6.75" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="TourLibrary.Account.AccountHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Account.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAgAAAAAAAAAIAQAABAAAABAAAQAAAAAAAg=</HashCode>
+      <FileName>Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TourLibrary.Agency">
+    <Position X="10" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAIAAAIAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Agency.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TourLibrary.AgencyNotFoundException">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AgencyNotFoundException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TourLibrary.AirCompany">
+    <Position X="12" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>AirCompany.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TourLibrary.AirCompanyNotFoundException">
+    <Position X="13" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AirCompanyNotFoundException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TourLibrary.InterestingCountry">
+    <Position X="0.5" Y="10" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="TourLibrary.InterestingCountry.InterestingCountryHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>InterestingCountry.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAKAAgAA=</HashCode>
+      <FileName>InterestingCountry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TourLibrary.LowMoneyException">
+    <Position X="16.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LowMoneyException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TourLibrary.PersonalTour">
+    <Position X="4" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAFAQAAAAAAAAAAAAAAAAAAAAAAAABAAAACAAA=</HashCode>
+      <FileName>PersonalTour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TourLibrary.TematicTours">
+    <Position X="2.25" Y="10" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="TourLibrary.TematicTours.TematicToursHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TematicTours.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAACAAgAA=</HashCode>
+      <FileName>TematicTours.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="7.25" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TourLibrary.Club">
+    <Position X="3.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAYAAAAAAIAIAAEAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Club.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TourLibrary.SightseeingTours">
+    <Position X="5.75" Y="10" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="TourLibrary.SightseeingTours.SightseeingToursHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SightseeingTours.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAACAAkAA=</HashCode>
+      <FileName>SightseeingTours.cs</FileName>
+      <NewMemberFileName>Tour.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TourLibrary.Tour">
+    <Position X="3" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAQAAEIAAAAAIAQAABAAAQAAAAAAACAAgAA=</HashCode>
+      <FileName>Tour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TourLibrary.NegativeAmountException">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NegativeAmountException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Exception" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Enum Name="TourLibrary.PayStatus">
+    <Position X="14.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PayStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BGFJN374BJ3BIuZuLDuikajetBn4pB47eyXKHboCacSK9+PJeKUsSPbA4I9o+IfM7HidR/zFD1+jZjr3L9+BPw==",
+  "success": true,
+  "projectFilePath": "F:\\Мої проекти С++\\Курсова програма\\ClassLibrary1\\TourLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krasa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\krasa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

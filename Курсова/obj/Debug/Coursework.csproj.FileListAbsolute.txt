@@ -1,0 +1,15 @@
+F:\Мої проекти С++\Курсова\Курсова\bin\Debug\Курсова.exe.config
+F:\Мої проекти С++\Курсова\Курсова\bin\Debug\Курсова.exe
+F:\Мої проекти С++\Курсова\Курсова\bin\Debug\Курсова.pdb
+F:\Мої проекти С++\Курсова\Курсова\obj\Debug\Coursework.csprojAssemblyReference.cache
+F:\Мої проекти С++\Курсова\Курсова\obj\Debug\Курсова.exe
+F:\Мої проекти С++\Курсова\Курсова\obj\Debug\Курсова.pdb
+F:\Мої проекти С++\Курсова програма\Курсова\bin\Debug\Курсова.exe.config
+F:\Мої проекти С++\Курсова програма\Курсова\bin\Debug\Курсова.exe
+F:\Мої проекти С++\Курсова програма\Курсова\bin\Debug\Курсова.pdb
+F:\Мої проекти С++\Курсова програма\Курсова\obj\Debug\Coursework.csprojAssemblyReference.cache
+F:\Мої проекти С++\Курсова програма\Курсова\obj\Debug\Курсова.exe
+F:\Мої проекти С++\Курсова програма\Курсова\obj\Debug\Курсова.pdb
+F:\Мої проекти С++\Курсова програма\Курсова\bin\Debug\TourLibrary.dll
+F:\Мої проекти С++\Курсова програма\Курсова\bin\Debug\TourLibrary.pdb
+F:\Мої проекти С++\Курсова програма\Курсова\obj\Debug\Coursework.csproj.CopyComplete
